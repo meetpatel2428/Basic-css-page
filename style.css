@@ -1,0 +1,41 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0;
+    padding-top: 100px;
+    font-family: 'merriweather',serif;
+    font-size: 20px;
+
+}
+h1{
+    margin: auto;
+    width: 10%;
+    font-family: 'sacramento',cursive;
+    font-size: 60px;
+    color: goldenrod;
+}
+
+h2{
+    font-size: 40px;
+    color: cadetblue;
+    font-weight: normal;
+}
+h3{
+    font-size: 40px;
+    color: lightcoral;
+}
+.moun{
+    top: 400px;
+    bottom: 400px;
+}
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.cloud2{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    
+}
